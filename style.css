@@ -47,6 +47,8 @@ form input {
 
 .select-container img {
     max-width:2rem;
+    position: relative;
+    top: 9px;
 }
 
 .select-container {
