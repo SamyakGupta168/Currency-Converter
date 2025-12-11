@@ -47,8 +47,6 @@ form input {
 
 .select-container img {
     max-width:2rem;
-    position: relative;
-    top: 9px;
 }
 
 .select-container {
@@ -65,7 +63,8 @@ form input {
 
 .dropdowm i {
     font-size:3rem;
-    /* margin-top:1rem; */
+    position:relative;
+    top:9px;
 }
 
 .select-container select {
